@@ -1,0 +1,43 @@
+@font-face{
+font-family: Bebas_Neue;
+src: url(../fonts/Bebas_Neue/BebasNeue-Regular.ttf);
+}
+
+.logo{
+	font-family: Bebas_Neue;
+	font-size: 5rem;
+	color: #0B0B61;
+}
+
+.carousel-caption{
+	background-color: rgba(204 204 204 / 0.5);
+}
+
+
+*
+h6, h6{
+	text-align: center;
+	font-family: inherit;
+	font-size: 2rem;
+}
+
+*
+h9, h9{
+	text-align:;
+	font-family: revert-layer;
+	font-size: 2rem;
+	color:black;
+}
+
+*
+h8, h8{
+	text-align: center;
+	font-family: revert-layer;
+	font-size: 2rem;
+	color: black;
+}
+
+*
+<div class="text-center"><button>{
+	color: blue;
+}
